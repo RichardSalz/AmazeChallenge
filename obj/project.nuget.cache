@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKlxgH5CN/mzSmG6OsCPaQAbtdU1n7T7pNWt+8KCVOycXoad1wOgz9sgTW71VzdQUJyoBr2xtngt7dVM+9ZSzA==",
+  "success": true,
+  "projectFilePath": "C:\\Sac\\Dev\\aspnet\\A1\\A1\\Amaze_Console_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felhasználó\\.nuget\\packages\\hightechict.amazeing.client.rest\\1.0.2\\hightechict.amazeing.client.rest.1.0.2.nupkg.sha512",
+    "C:\\Users\\Felhasználó\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

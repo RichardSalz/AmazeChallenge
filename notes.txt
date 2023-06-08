@@ -1,0 +1,17 @@
+Challenge 
+
+The point is to build a Bot that connects to a server which hosts ‘maze’ 
+challenges which you navigate (and discover) using API calls.
+
+Point is to collect money, ‘bag’ it at collection points and then find an exit tile. 
+
+- Coding style 
+- Problem solving
+- How to work with an API
+- Prepare the code for presentation and discussion
+
+Initial plan:
+
+- Make a console application that can call to the API, and store the info somewhere 
+
+Authorization: "HTI Thanks You [4d39]"
